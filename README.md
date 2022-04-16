@@ -1,10 +1,10 @@
 # Serverless Functions - By Dave Gray
 
-✅ [Check out my (Dave's) YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ Created with help from [Check out my (Dave's) YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
-In this tutorial, we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify.
+Created a serverless funtion, with the help of Dave Gray, to deploy a serverless site. This site displays a new dad joke every 10 seconds from (https://icanhazdadjoke.com/).
 
 YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
 
